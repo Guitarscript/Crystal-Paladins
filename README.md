@@ -1,4 +1,4 @@
-[tags.txt](https://github.com/Guitarscript/dasdasd/files/13417564/tags.txt)# [Crystal] Paladins
+# [Crystal] Paladins
 
 ![1](https://github.com/Guitarscript/dasdasd/assets/102888746/afeabd4c-8af7-4e12-9ded-be02696a8bb9)
 
